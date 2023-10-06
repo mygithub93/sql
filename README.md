@@ -1,2 +1,1 @@
-# sql
-useful sql scripts
+Useful sql scripts
